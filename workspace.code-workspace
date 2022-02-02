@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\18.1-activities"
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\18.2-activities (1)"
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\18.3-activities"
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\19.1-activities"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "19.1-activities"
+	}
+}
