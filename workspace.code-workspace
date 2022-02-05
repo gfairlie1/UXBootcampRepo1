@@ -14,9 +14,12 @@
 		},
 		{
 			"path": "..\\..\\..\\Downloads\\19.1-activities"
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\19.2-activities"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "19.1-activities"
+		"liveServer.settings.multiRootWorkspaceName": "UXBootcampRepo1"
 	}
 }
